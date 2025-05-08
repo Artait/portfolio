@@ -1,0 +1,4 @@
+# Nmap 7.95 scan initiated Thu May  8 08:57:46 2025 as: /usr/lib/nmap/nmap --privileged -oA Lame_full_scan_tcp 10.10.10.3
+Host: 10.10.10.3 ()	Status: Up
+Host: 10.10.10.3 ()	Ports: 21/open/tcp//ftp///, 22/open/tcp//ssh///, 139/open/tcp//netbios-ssn///, 445/open/tcp//microsoft-ds///	Ignored State: filtered (996)
+# Nmap done at Thu May  8 08:58:16 2025 -- 1 IP address (1 host up) scanned in 29.89 seconds
