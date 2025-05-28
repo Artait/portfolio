@@ -1,0 +1,4 @@
+# Nmap 7.95 scan initiated Sat May 24 13:38:30 2025 as: /usr/lib/nmap/nmap --privileged -Pn -n --disable-arp-ping -sCV -oA Cap_scan -p21,22,80 10.10.10.245
+Host: 10.10.10.245 ()	Status: Up
+Host: 10.10.10.245 ()	Ports: 21/open/tcp//ftp//vsftpd 3.0.3/, 22/open/tcp//ssh//OpenSSH 8.2p1 Ubuntu 4ubuntu0.2 (Ubuntu Linux; protocol 2.0)/, 80/open/tcp//http//Gunicorn/
+# Nmap done at Sat May 24 13:38:59 2025 -- 1 IP address (1 host up) scanned in 29.09 seconds
